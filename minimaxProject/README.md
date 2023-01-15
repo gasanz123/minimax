@@ -1,0 +1,2 @@
+# minimaxProject
+A JavaScript project
